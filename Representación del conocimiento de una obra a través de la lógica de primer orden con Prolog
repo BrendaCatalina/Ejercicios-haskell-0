@@ -1,0 +1,37 @@
+% Hechos
+propiedades(jengibre, tonico_cerebral).
+propiedades(jengibre, antiinflamatorio).
+propiedades(jengibre, digestivo).
+
+propiedades(linaza, laxante).
+propiedades(linaza, antiinflamatorio).
+propiedades(linaza, nutritivo).
+
+propiedades(llanten, antiinflamatorio).
+propiedades(llanten, expectorante).
+propiedades(llanten, depurativo_sangre).
+
+tratamiento(jengibre, gripe).
+tratamiento(jengibre, dolor_estomacal).
+
+tratamiento(linaza, estreñimiento).
+tratamiento(linaza, inflamacion).
+
+tratamiento(llanten, afecciones_respiratorias).
+tratamiento(llanten, inflamacion).
+tratamiento(llanten, heridas).
+
+forma_de_empleo(jengibre, infusion).
+forma_de_empleo(jengibre, crudo).
+
+forma_de_empleo(linaza, infusion).
+forma_de_empleo(linaza, cataplasma).
+
+forma_de_empleo(llanten, infusion).
+forma_de_empleo(llanten, cataplasma).
+forma_de_empleo(llanten, fresco).
+
+fortalece_sistema_digestivo(jengibre).
+fortalece_sistema_digestivo(linaza).
+fortalece_sistema_respiratorio(llanten).
+
